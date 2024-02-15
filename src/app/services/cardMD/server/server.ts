@@ -1,0 +1,1 @@
+export const SERVER_URL = "http://api.carmd.com/v3.0/"
